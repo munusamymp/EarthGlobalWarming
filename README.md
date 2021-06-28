@@ -1,5 +1,5 @@
 # Earth - GlobalWarming
 
-## Global Temperature Anomalies Visualizations:
+## Global Temperature Anomalies Visual:
 
 ![Visualization](./assets/EarthWarming.png)
